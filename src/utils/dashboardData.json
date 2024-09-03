@@ -1,0 +1,31 @@
+[{
+    "dashBoard" : {
+        "categories" : [
+            {
+                "categoryName" : "CSPM Executive Dashboard",
+                "widgets" : [
+                    {
+                        "widgetName" : "Cloud Accounts",
+                        "wigdgetId" : 1,
+                        "widgetText" : "this is 1st widget"
+                    },
+                    {
+                        "widgetName" : "Cloud Account Risk Assessment",
+                        "wigdgetId" : 2,
+                        "widgetText" : "this is 2nd widget"
+                    }
+                ]
+            },
+            {
+                "categoryName" : "CWPP Dashboard",
+                "widgets" : [
+                    {
+                        "widgetName" : "Top 5 Namespaces Specific Alerts",
+                        "wigdgetId" : 1,
+                        "widgetText" : "this is 1st widget"
+                    }
+                ]
+            }
+        ]
+    }
+}]
